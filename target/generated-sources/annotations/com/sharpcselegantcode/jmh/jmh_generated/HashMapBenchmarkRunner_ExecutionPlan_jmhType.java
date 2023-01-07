@@ -1,4 +1,0 @@
-package com.sharpcselegantcode.jmh.jmh_generated;
-public class HashMapBenchmarkRunner_ExecutionPlan_jmhType extends HashMapBenchmarkRunner_ExecutionPlan_jmhType_B3 {
-}
-
